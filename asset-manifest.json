@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iissmarterthanu.github.io/monsters-rollodex/static/css/main.5b84d308.chunk.css",
+    "main.js": "/iissmarterthanu.github.io/monsters-rollodex/static/js/main.8a2cc108.chunk.js",
+    "main.js.map": "/iissmarterthanu.github.io/monsters-rollodex/static/js/main.8a2cc108.chunk.js.map",
+    "runtime-main.js": "/iissmarterthanu.github.io/monsters-rollodex/static/js/runtime-main.a5bf9ade.js",
+    "runtime-main.js.map": "/iissmarterthanu.github.io/monsters-rollodex/static/js/runtime-main.a5bf9ade.js.map",
+    "static/js/2.7db90bec.chunk.js": "/iissmarterthanu.github.io/monsters-rollodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/iissmarterthanu.github.io/monsters-rollodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/iissmarterthanu.github.io/monsters-rollodex/index.html",
+    "precache-manifest.81971d978b9b70104ba5a324d260cc44.js": "/iissmarterthanu.github.io/monsters-rollodex/precache-manifest.81971d978b9b70104ba5a324d260cc44.js",
+    "service-worker.js": "/iissmarterthanu.github.io/monsters-rollodex/service-worker.js",
+    "static/css/main.5b84d308.chunk.css.map": "/iissmarterthanu.github.io/monsters-rollodex/static/css/main.5b84d308.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/iissmarterthanu.github.io/monsters-rollodex/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bf9ade.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.5b84d308.chunk.css",
+    "static/js/main.8a2cc108.chunk.js"
+  ]
+}
