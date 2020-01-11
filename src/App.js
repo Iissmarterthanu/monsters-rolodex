@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { CardList } from './components/card-list/card-list.component';
+import { CardList  } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
 
 import './App.css';
@@ -21,7 +21,7 @@ class App extends Component {
       .then(users => this.setState({ monsters: users }));
   }
 
-  onSearchChange = event => {
+  handleChange = event => {
     this.setState({ searchField: event.target.value });
   };
 
@@ -33,8 +33,10 @@ class App extends Component {
 
     return (
       <div className='App'>
-        <h1>the Ruff Gang</h1>
-        <SearchBox onSearchChange={this.onSearchChange} />
+        <h1>Collars for Kings</h1>
+        <SearchBox 
+          placeholder = 'search'
+          handleChange={this.handleChange} />
         <CardList monsters={filteredMonsters} />
       </div>
     );
