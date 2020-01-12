@@ -21,11 +21,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(201, 191, 176);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #90918a;
 }
 
 @keyframes App-logo-spin {
@@ -38,7 +38,7 @@
 }
 
 h1 {
-  font-family: 'Great+Vibes';
+  font-family: 'Great Vibes';
   font-size: 72px;
-  color: #299b97;
+  color: #1a1403;
 }
