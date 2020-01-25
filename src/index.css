@@ -6,11 +6,7 @@ body {
     sans-serif, 'Great+Vibes';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(
-    to left,
-    rgba(226, 200, 129, 0.89) 0%,
-    rgba(224, 211, 157, 0.281) 100%
-  );
+  background: rgba(182, 170, 140, 0.89);
 }
 
 code {
